@@ -3,7 +3,7 @@ import streamlit as st
 # Cấu hình trang web
 st.set_page_config(page_title="Công cụ Đánh giá Khoản Vay", layout="centered")
 
-st.title("🏦 APP CHO VAY ONLINE KHÁCH HÀNG CÁ NHÂN_PHƯƠNG LY")
+st.title("🏦 APP CHO VAY ONLINE KHÁCH HÀNG CÁ NHÂN_PHƯƠNG LY_ĐỀ TÀI 6")
 st.write("Nhập các thông tin dưới đây để kiểm tra điều kiện vay vốn.")
 st.markdown("---")
 
